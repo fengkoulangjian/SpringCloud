@@ -12,5 +12,5 @@ import lombok.NoArgsConstructor;
 public class Order {
 	private String id;
 	private User user;
-	private List<Item> items;/**88888*/
+	private List<Item> items;/**8888888*/
 }
